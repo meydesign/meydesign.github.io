@@ -1,2 +1,1 @@
-# meydesign.github.io
-Mey Design Website
+# Mey Design
